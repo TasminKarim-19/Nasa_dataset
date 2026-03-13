@@ -10,8 +10,6 @@
 🛡️ Vulnerability Detection
 💻 Secure Code Analysis
 
-![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA?style=plastic)
-
 ---
 
 
@@ -19,7 +17,8 @@
 
 
 Due to the large size of the **NASA Dataset**, GitHub may not display all files or preview the dataset contents properly in the browser.  
-To fully explore and use the dataset, please **download the dataset locally first**.
+To fully explore and use the dataset. 
+![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA?style=plastic).
 
 After downloading, you will be able to:
 - browse all files and folders without GitHub preview limitations,
