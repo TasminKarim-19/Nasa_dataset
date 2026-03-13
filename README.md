@@ -21,8 +21,4 @@ After downloading, you will be able to:
  
 > Please download the dataset from this repository and open it on your local machine for complete access.
 
-## Why Download First?
-
-This dataset contains a large collection of **C/C++ vulnerability-related samples extracted from NASA GitHub repositories**.  
-Because of the dataset scale, some files may not render in GitHub’s web interface, and previews may be truncated or unavailable.
 
