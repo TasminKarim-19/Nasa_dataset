@@ -18,7 +18,11 @@
 
 Due to the large size of the **NASA Dataset**, GitHub may not display all files or preview the dataset contents properly in the browser.  
 To fully explore and use the dataset. 
-![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA?style=plastic).
+<br>
+
+![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA?style=for-the-badge)
+
+<br>
 
 After downloading, you will be able to:
 - browse all files and folders without GitHub preview limitations,
