@@ -4,6 +4,8 @@
 🛡️ Vulnerability Detection
 💻 Secure Code Analysis
 
+![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA)
+
 ---
 
 ## 📁  Dataset Access
