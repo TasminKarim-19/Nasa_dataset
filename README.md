@@ -7,6 +7,12 @@
 ![Important](https://img.shields.io/badge/NOTE-Please%20download%20the%20dataset%20locally%20first-0969DA)
 
 ---
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
+![Source](https://img.shields.io/badge/Source-NASA%20GitHub-0B3D91.svg)
+![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-00599C.svg)
+![Task](https://img.shields.io/badge/Task-Vulnerability%20Detection-orange.svg)
+![Type](https://img.shields.io/badge/Type-Dataset-purple.svg)
+![Domain](https://img.shields.io/badge/Domain-Software%20Security-red.svg)
 
 ## 📁  Dataset Access
 
